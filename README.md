@@ -17,14 +17,14 @@
 - [smart contract](#smart-contract)
 - [wallet](#wallet)
 - [exchange](#exchange)
-- [smart script](#smart-script)
+- [smart script](#smart-script-c)
 - [marketplace](#marketplace)
 
 ## digital asset
 software value stored in computer / blockchain.
 
 + **[cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)**: digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, cryptocurrency associated with its own blockchain is called coin like bitcoin and derived currency is called token like aave.
-+ **[non-fungible token](link)**: non-interchangeable unit of data stored on a blockchain, types of nft data units may be associated with digital files such as photos, because each token is uniquely identifiable it's differ from cryptocurrency.
++ **[non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token)**: non-interchangeable unit of data stored on a blockchain, types of nft data units may be associated with digital files such as photos, because each token is uniquely identifiable it's differ from cryptocurrency.
 
 ## smart contract
 interact with blockchain.
@@ -43,7 +43,7 @@ store user's personal data and used to instantiate transaction.
 platform for trading digital asset.
 
 + **[uniswap](https://uniswap.org)**: swap and earn on the leading decentralized crypto trading protocol (dex).
-+ **[coinbase](link)**: a secure online platform for buying, selling, transferring, and storing cryptocurrency on the popular centralized exchange (cex).
++ **[coinbase](https://www.coinbase.com)**: a secure online platform for buying, selling, transferring, and storing cryptocurrency on the popular centralized exchange (cex).
 
 
 ## smart script [[c]](#c)
@@ -51,7 +51,7 @@ interact with smart contract.
 
 + **[web3 js](https://github.com/ChainSafe/web3.js)**: a collection of libraries that allow you to interact with a local or remote ethereum node using http, ipc or websocket.
 + **[ethers js](https://github.com/ethers-io/ethers.js)**: a library aims to be a complete and compact library for interacting with the ethereum blockchain and its ecosystem. :rocket:
-+ **[web3 py](link)**: a python interface for interacting with the ethereum blockchain and ecosystem, the original api was derived from the web3 js api.
++ **[web3 py](https://github.com/ethereum/web3.py)**: a python interface for interacting with the ethereum blockchain and ecosystem, the original api was derived from the web3 js api.
 
 ## marketplace
 platform for trading user generated digital asset (mostly nft).
